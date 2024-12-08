@@ -126,9 +126,9 @@ params:
   # 评论的设置
   giscus:
     repo: "RaymondMeng/raymoncy.github.io"
-    repoId: "R_kgDOMed_Fg"
+    repoId: "R_kgDONajkFQ"
     category: "Announcements"
-    categoryId: "DIC_kwDOMed_Fs4ChXJF"
+    categoryId: "DIC_kwDONajkFc4ClCNk"
     mapping: "pathname"
     strict: "0"
     reactionsEnabled: "1"
